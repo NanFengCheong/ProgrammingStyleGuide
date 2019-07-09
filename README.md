@@ -1,6 +1,6 @@
 ## Reference:
 Angular Style Guide: [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)
-C# Style Guide: [https://github.com/MakingSense/code-style-guides/blob/master/CSharp/README.md](https://github.com/MakingSense/code-style-guides/blob/master/CSharp/README.md)
+C# Style Guide: [https://github.com/MakingSense/code-style-guides/blob/master/CSharp/README.md](https://github.com/MakingSense/code-style-guides/blob/master/CSharp/README.md) 
 
 ## Additional Style Guide:
 
